@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="454e8ad1-7cfc-42cc-a67d-1ec5f0375236" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="tenancyschool_pa004598@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="tenancyschool_pa004598@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="tenancyschool_pa004598@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="tenancyschool_pa004598: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="tenancyschool_pa004598@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="tenancyschool_pa004598: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="tenancyschool_pa004598@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="tenancyschool_pa004598: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="views" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-716058734">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="16" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.65" value="1" />
+          <entry key="project.open.time.70" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="fk_id_tiposala" value="1" />
+          <entry key="php" value="266" />
+          <entry key="sql" value="9" />
+          <entry key="tbl_estudante" value="1" />
+          <entry key="tbl_sala" value="1" />
+          <entry key="tbl_turno" value="1" />
+          <entry key="view_usuarios" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Database Element" value="4" />
+          <entry key="PHP" value="266" />
+          <entry key="SQL" value="8" />
+          <entry key="Scratch" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="php" value="10587" />
+          <entry key="sql" value="468" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="10583" />
+          <entry key="SQL" value="4" />
+          <entry key="Scratch" value="468" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getElementsByTagName</find>
+      <find>tbl_pessoa</find>
+      <find>nota20</find>
+      <find>blue</find>
+      <find>.png</find>
+      <find>white</find>
+      <find>blue.png</find>
+      <find>res5</find>
+      <find>$res5</find>
+      <find>hora</find>
+      <find>tbl_hora</find>
+      <find>sala</find>
+      <find>tab-4</find>
+      <find>tab-3</find>
+      <find>modal-alertaSucesso</find>
+      <find>#modal-alertaErro</find>
+      <find>id_turma</find>
+      <find>provincia</find>
+      <find>carrega_dados1</find>
+      <find>txtSearch</find>
+      <find>view_class</find>
+      <find>class=&quot;editavel&quot;</find>
+      <find>$campo</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>nota10</replace>
+      <replace>log.png</replace>
+      <replace>salas</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/VISAO/PAGES/profile.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/register.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/tables.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/login.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_CADASTRO/Controller_importestudante.php" />
+        <option value="$PROJECT_DIR$/MODELO/Horario.php" />
+        <option value="/50e42e8f/a192a79c-f868-41c4-941f-633e6e1c313c/schema/tenancyschool_na004598/view/view_horario.sql" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_CADASTRO/Controller_horario.php" />
+        <option value="$PROJECT_DIR$/DAO/HorarioDAO.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_INSTITUCIONAL/horas.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/institucional.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_INSTITUCIONAL/salas.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_MINHAS/minh_disciplinas.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_CADASTRO/horarios.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/a192a79c-f868-41c4-941f-633e6e1c313c/console.sql" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_CADASTRO/Controller_importfuncionarios.php" />
+        <option value="$PROJECT_DIR$/DAO/DisciplinasDAO.php" />
+        <option value="$PROJECT_DIR$/DAO/FuncionarioDAO.php" />
+        <option value="$PROJECT_DIR$/DAO/SalaDAO.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_CADASTRO/Controller_importhorarios.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_INSTITUCIONAL/PAGINACAO/load_disciplina.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_INSTITUCIONAL/disciplinas.php" />
+        <option value="$PROJECT_DIR$/DAO/DISCursoDAO.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_INSTITUCIONAL/PAGINACAO/load_disCurso.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_INSTITUCIONAL/busca_disCurso.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_CADASTRO/PAGINACAO/load_funcionario.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_CADASTRO/carrega_funcionario.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_CADASTRO/PAGINACAO/load_estudante.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_CADASTRO/carrega_estudante.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_CADASTRO/funcionarios.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_CADASTRO/carrega_disciplina.php" />
+        <option value="$PROJECT_DIR$/DAO/ClassesDAO.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_INSTITUCIONAL/Controller_importturmas.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/Controller_Ava.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/Controller_Pro.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/1a06a1d9-556d-4905-9e19-ed51acca11be/console.sql" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/Controller_finais.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/cader_Sec_1013.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/carrega_notas1.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/carrega_notas2.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/carrega_notas3.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/cader_Pri_Bas_24.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/carrega_notas110.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/carrega_notas210.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/carrega_notas310.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/cader_Pri_Bas_ini3.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/cader_Pri_Bas_789.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/cader_Tec_1013.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/carrega_notas1T.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/carrega_notas2T.php" />
+        <option value="$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/carrega_notas3T.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="527" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="2k19Moon_tenant" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2k19Moon_tenant" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2k19Moon_tenant" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2k19Moon_tenant" type="462c0819:PsiDirectoryNode" />
+              <item name="VISAO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2k19Moon_tenant" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2k19Moon_tenant" type="462c0819:PsiDirectoryNode" />
+              <item name="VISAO" type="462c0819:PsiDirectoryNode" />
+              <item name="PAGES" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2020propina" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\2k19Moon_tenant\VISAO\PAGES\LOAD_INSTITUCIONAL" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\2k19Moon_tenant\CONTROLO" />
+      <recent name="C:\xampp\htdocs\2k19Moon_tenant\VISAO\PAGES\LOAD_PAUTAS\PAUTAS\complexas" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="454e8ad1-7cfc-42cc-a67d-1ec5f0375236" name="Default Changelist" comment="" />
+      <created>1585670002039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585670002039</updated>
+      <workItem from="1585670003866" duration="8420000" />
+      <workItem from="1585731061075" duration="6672000" />
+      <workItem from="1585767343826" duration="599000" />
+      <workItem from="1585814394131" duration="23998000" />
+      <workItem from="1586006481653" duration="12524000" />
+      <workItem from="1586100587295" duration="457000" />
+      <workItem from="1586106117642" duration="553000" />
+      <workItem from="1586165253932" duration="845000" />
+      <workItem from="1586183541627" duration="57000" />
+      <workItem from="1586351982980" duration="15352000" />
+      <workItem from="1586419618838" duration="10878000" />
+      <workItem from="1586456832952" duration="10000" />
+      <workItem from="1586614911183" duration="2527000" />
+      <workItem from="1586681523201" duration="8354000" />
+      <workItem from="1586698874536" duration="3911000" />
+      <workItem from="1587110880453" duration="21487000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="116644000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Database Console" order="7" visible="true" weight="0.25531915" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.10514372" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.17700455" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Console" order="5" visible="true" weight="0.21603929" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Database" order="0" visible="true" weight="0.20953101" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_CADASTRO/Controller_funcionario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="86" column="27" selection-start-line="86" selection-start-column="18" selection-end-line="86" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_INSTITUCIONAL/Controller_importsala.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAO/UsuarioDAO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="71" column="32" lean-forward="true" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_CADASTRO/Controller_horario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="38" selection-start-line="38" selection-end-line="38" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_CADASTRO/Controller_director.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="31" selection-start-line="31" selection-end-line="70" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAO/FuncionarioDAO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="111" column="57" selection-start-line="111" selection-start-column="57" selection-end-line="111" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAO/SalaDAO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="85" column="70" selection-start-line="85" selection-start-column="70" selection-end-line="85" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAO/PessoaDAO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="53" column="56" selection-start-line="53" selection-start-column="56" selection-end-line="53" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a192a79c-f868-41c4-941f-633e6e1c313c/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_CADASTRO/Controller_importfuncionarios.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="92" column="44" selection-start-line="92" selection-start-column="44" selection-end-line="92" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_INSTITUCIONAL/Controller_importdisciplina.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_CADASTRO/Controller_importhorarios.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="141" column="50" selection-start-line="141" selection-start-column="50" selection-end-line="141" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/notas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="47" column="77" selection-start-line="47" selection-start-column="77" selection-end-line="47" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/maps.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="37" column="23" lean-forward="true" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_INSTITUCIONAL/PAGINACAO/load_disciplina.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="71" column="29" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_INSTITUCIONAL/PAGINACAO/load_disCurso.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="48" column="29" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAO/DisciplinasDAO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="64" selection-start-line="64" selection-end-line="79" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_INSTITUCIONAL/busca_disciplina.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_INSTITUCIONAL/disciplinas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="164" column="50" lean-forward="true" selection-start-line="164" selection-start-column="50" selection-end-line="164" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_CADASTRO/PAGINACAO/load_funcionario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="65" column="36" lean-forward="true" selection-start-line="65" selection-start-column="36" selection-end-line="65" selection-end-column="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_CADASTRO/carrega_funcionario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="89" column="116" selection-start-line="89" selection-start-column="116" selection-end-line="89" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_INSTITUCIONAL/busca_disCurso.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_CADASTRO/carrega_estudante.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="67" column="106" selection-start-line="67" selection-start-column="106" selection-end-line="67" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_CADASTRO/PAGINACAO/load_estudante.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="82" column="26" selection-start-line="82" selection-start-column="26" selection-end-line="82" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAO/TurmaDAO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="105" column="44" selection-start-line="105" selection-start-column="44" selection-end-line="105" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MODELO/Classes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CONTROLO/00tenancyschool.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="903" column="42" selection-start-line="903" selection-start-column="32" selection-end-line="903" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAO/ClassesDAO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2244">
+          <caret line="132" column="32" lean-forward="true" selection-start-line="132" selection-start-column="32" selection-end-line="132" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_INSTITUCIONAL/Controller_importturmas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_CADASTRO/carrega_disciplina.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_CADASTRO/funcionarios.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1075">
+          <caret line="304" column="85" selection-start-line="304" selection-start-column="85" selection-end-line="304" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAO/DISCursoDAO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="56" column="20" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/Controller_cader1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="48" lean-forward="true" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/Controller_Ava.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="30" column="51" lean-forward="true" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/Controller_Pro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-457">
+          <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/Controller_finais.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/carrega_notas3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="71" column="25" lean-forward="true" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
+          <folding>
+            <element signature="e#6009#6816#0#HTML" />
+            <element signature="e#6868#7662#0#HTML" />
+            <element signature="e#7712#8492#0#HTML" />
+            <element signature="e#8551#8946#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/carrega_notas2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="70" column="25" lean-forward="true" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="e#5407#6214#0#HTML" />
+            <element signature="e#6266#7060#0#HTML" />
+            <element signature="e#7110#7890#0#HTML" />
+            <element signature="e#7949#8344#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/carrega_notas1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="143" selection-start-line="143" selection-end-line="214" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/carrega_notas110.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="144" column="52" selection-start-line="144" selection-start-column="52" selection-end-line="144" selection-end-column="52" />
+          <folding>
+            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="e#6130#6937#0#HTML" />
+            <element signature="e#6989#7783#0#HTML" />
+            <element signature="e#7833#8613#0#HTML" />
+            <element signature="e#8672#9067#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/carrega_notas210.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="132" column="20" lean-forward="true" selection-start-line="132" selection-start-column="20" selection-end-line="132" selection-end-column="20" />
+          <folding>
+            <element signature="e#6009#6816#0#HTML" />
+            <element signature="e#6868#7662#0#HTML" />
+            <element signature="e#7712#8492#0#HTML" />
+            <element signature="e#8551#8946#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/carrega_notas310.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
+          <folding>
+            <element signature="e#6011#6818#0#HTML" />
+            <element signature="e#6870#7664#0#HTML" />
+            <element signature="e#7714#8494#0#HTML" />
+            <element signature="e#8553#8948#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/cader_Pri_Bas_ini3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1619">
+          <caret line="198" column="9" selection-start-line="198" selection-start-column="9" selection-end-line="198" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/cader_Pri_Bas_24.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="200" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#1;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#!!top" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" />
+            <element signature="n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" />
+            <element signature="n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#!!top" />
+            <element signature="n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#div#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/cader_Pri_Bas_789.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7786">
+          <caret line="624" column="41" selection-start-line="624" selection-start-column="41" selection-end-line="624" selection-end-column="41" />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/cader_Sec_1013.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="602" column="36" selection-start-line="602" selection-start-column="36" selection-end-line="616" selection-end-column="41" />
+          <folding>
+            <element signature="e#4448#5255#0#HTML" />
+            <element signature="e#5307#6101#0#HTML" />
+            <element signature="e#6151#6931#0#HTML" />
+            <element signature="e#6990#7385#0#HTML" />
+            <element signature="n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#!!top" />
+            <element signature="n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" />
+            <element signature="n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#!!top" />
+            <element signature="n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/carrega_notas3T.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="122" column="24" selection-start-line="122" selection-start-column="24" selection-end-line="122" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#td#2;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="e#5789#6596#0#HTML" />
+            <element signature="e#6648#7442#0#HTML" />
+            <element signature="e#7492#8272#0#HTML" />
+            <element signature="e#8331#8726#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/carrega_notas2T.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="122" selection-start-line="122" selection-end-line="122" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#td#2;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="e#6286#7093#0#HTML" />
+            <element signature="e#7145#7939#0#HTML" />
+            <element signature="e#7989#8769#0#HTML" />
+            <element signature="e#8828#9223#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/carrega_notas1T.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="123" column="40" selection-start-line="123" selection-start-column="40" selection-end-line="123" selection-end-column="40" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#td#2;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="e#6285#7092#0#HTML" />
+            <element signature="e#7144#7938#0#HTML" />
+            <element signature="e#7988#8768#0#HTML" />
+            <element signature="e#8827#9222#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VISAO/PAGES/LOAD_LANCAMENTO/CADERNETAS/cader_Tec_1013.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="567" column="40" selection-start-line="567" selection-start-column="40" selection-end-line="567" selection-end-column="40" />
+          <folding>
+            <element signature="e#4444#5251#0#HTML" />
+            <element signature="e#5303#6097#0#HTML" />
+            <element signature="e#6147#6927#0#HTML" />
+            <element signature="e#6986#7381#0#HTML" />
+            <element signature="n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#!!top" />
+            <element signature="n#style#0;n#input#0;n#td#2;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" />
+            <element signature="n#style#0;n#input#0;n#td#2;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#!!top" />
+            <element signature="n#style#0;n#input#0;n#td#2;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1a06a1d9-556d-4905-9e19-ed51acca11be/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

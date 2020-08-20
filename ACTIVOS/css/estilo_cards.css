@@ -1,0 +1,53 @@
+
+    .card h1{
+        font-size: 30px;
+        color:#555;
+        font-weight: bold;
+    } 
+    
+        .card h3{
+        font-size: 14px;
+        color:#333;
+        font-weight: bold;
+    } 
+    
+    #team img{
+        margin-top: -50px;
+    }
+    #team i{
+        font-size:26px;
+        color:#555;
+    }
+    #team p{
+        font-size: 13px;
+        
+        
+    }
+    #team .card{
+        border-radius: 0;
+        box-shadow: 5px 5px 15px #8965e0;
+    transition: all 0.3s ease-in;
+    -webkit-transition: all 0.3s ease-in;
+    -moz-transition: all 0.3s ease-in;
+         font-family: arial;
+        font-size: 14px;
+        font-weight: 400;
+        color: #777;
+    }
+    #team .card:hover{
+        background: #8965e0;
+        color:#fff;
+        border-radius: 5px;
+        border: none;
+        box-shadow: 5px 5px 10px #9e9e9e;
+    }
+    #team .card:hover h3, #team .card:hover i{
+        color:#fff;
+    }
+    
+    #team button{
+        background: none;
+        border:none;
+        cursor: pointer;
+    }
+
